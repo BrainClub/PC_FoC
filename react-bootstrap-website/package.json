@@ -1,0 +1,23 @@
+{
+  "name": "1",
+  "version": "1",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "1",
+  "main": "1",
+  "repository": "1",
+  "author": "1",
+  "license": "1"
+}
