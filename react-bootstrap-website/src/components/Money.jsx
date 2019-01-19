@@ -19,7 +19,6 @@ export default class Money extends Component {
                       <Tab.Content animation >
                           <Tab.Pane eventKey="first">
                               <Row>
-
                                   <Col xs={12} md={6} >
                                       <h3>Balance</h3>
                                       <p>На цьому місці має бути скріпт по вирахунку грошей</p>
@@ -43,9 +42,6 @@ export default class Money extends Component {
                           </Tab.Pane>
                           <Tab.Pane eventKey="second">
                               <Row>
-
-
-
                                   <Col xs={12} md={4}>
                                       <h3>Patrons</h3>
                                       <p>Oleg - 800 грн </p>
